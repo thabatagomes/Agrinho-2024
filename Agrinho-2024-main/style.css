@@ -1,0 +1,40 @@
+:root{
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #c96b6bec;
+    --cor-de-fundo: #d5dde6;
+    --fonte-principal: 'Inter'
+    }
+
+    header{
+        background-color: var(--cor-de-fundo);
+        color: var(--branco-principal);
+       
+    }
+
+    .cabeçalho-imagem{
+        width: 25%;
+    }
+
+    .cabeçalho-lista-item{
+        font-size: 30px;
+    }
+.agricultura-texto-um{
+    width: 100%;
+}
+
+.agricultura-imagem{
+  width: 15%;
+}
+
+.agro{
+    width: 20%;
+}
+
+.agricultura-texto-dois{
+    font-size: 20px;
+}
+
+.agricultura-texto-um{
+    font-size: 20px;
+}
