@@ -2,7 +2,7 @@
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #c96b6bec;
-    --cor-de-fundo: #127ae2;
+    --cor-de-fundo: #181010;
     --fonte-principal: 'Inter'
     }
 
@@ -13,23 +13,20 @@
     }
 
     .cabeçalho-imagem{
-        width: 25%;
+        width: 35%;
     }
 
-    .cabeçalho-lista-item{
-        font-size: 50px;
-    }
 .agricultura-texto-um{
     width: 100%;
-    background-size: contain;
-    align-items: center;
-    text-align: center;
+    display: inline-block;
+     margin: 0 16px;
 }
 
 
 
 .agro{
-    width: 25%;
+    width: 35%;
+    
 }
 
 .agricultura-texto-dois{
@@ -38,10 +35,12 @@
 
 .agricultura-texto-um{
     font-size: 20px;
+    margin: 0 16px;
 }
 
 .agricultura-imagem-um{
- width: 25%;
+ width: 35%;
+
 }
 
 
